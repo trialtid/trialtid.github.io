@@ -1777,6 +1777,40 @@ section.lazy-placeholder:after {
     padding-bottom: 2rem;
   }
 }
+.cid-rSg48PhKrx {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rSg48PhKrx h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rSg48PhKrx p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+  padding-top: 2rem;
+}
+.cid-rSg48PhKrx .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-rSg48PhKrx .mbr-section-btn a {
+  margin: 0;
+}
+.cid-rSg48PhKrx .mbr-text {
+  color: #767676;
+}
+.cid-rSg48PhKrx .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-rSg48PhKrx .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
 .cid-rS4gkbVRmA .navbar {
   background: #000000;
   transition: none;
