@@ -1707,7 +1707,7 @@
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/background1.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": false,
@@ -1727,10 +1727,10 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/rossi-helmet-1-700x700.png",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
@@ -1739,7 +1739,7 @@
                 "alt": "",
                 "title": "",
                 "textTitle": "VIDEO SLIDE",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "left",
                 "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
