@@ -1735,14 +1735,6 @@ section.lazy-placeholder:after {
     padding-bottom: 2rem;
   }
 }
-.cid-rS8NRk4JU5 {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #efefef;
-}
-.cid-rS8NRk4JU5 .media-container-row .mbr-text {
-  color: #000000;
-}
 .cid-rSbgIEvHIu {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1810,6 +1802,14 @@ section.lazy-placeholder:after {
   .cid-rSg48PhKrx .card:not(.last-child) {
     padding-bottom: 2rem;
   }
+}
+.cid-rS8NRk4JU5 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-rS8NRk4JU5 .media-container-row .mbr-text {
+  color: #000000;
 }
 .cid-rS4gkbVRmA .navbar {
   background: #000000;
