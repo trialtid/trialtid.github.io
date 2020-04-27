@@ -1227,8 +1227,48 @@ section.lazy-placeholder:after {
 .cid-rS4gkbVRmA .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-rS4dRh4OVW {
+.cid-rS4RThQxCe {
   padding-top: 105px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rS4RThQxCe h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rS4RThQxCe p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rS4RThQxCe .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-rS4RThQxCe .mbr-section-btn a {
+  margin: 0;
+}
+.cid-rS4RThQxCe .mbr-text {
+  color: #767676;
+}
+.cid-rS4RThQxCe .card-wrapper {
+  height: 100%;
+}
+@media (max-width: 767px) {
+  .cid-rS4RThQxCe .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
+.cid-rS4RThQxCe .mbr-text,
+.cid-rS4RThQxCe .mbr-section-btn {
+  text-align: left;
+}
+.cid-rS4RThQxCe .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-rS4dRh4OVW {
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
@@ -1242,6 +1282,7 @@ section.lazy-placeholder:after {
   margin-bottom: 0;
   text-align: left;
   padding-top: 1.5rem;
+  padding-top: 2rem;
 }
 .cid-rS4dRh4OVW .mbr-section-btn {
   padding-top: 2.5rem;
@@ -1662,44 +1703,6 @@ section.lazy-placeholder:after {
 .cid-rS4gkbVRmA .nav-link:hover,
 .cid-rS4gkbVRmA .dropdown-item:hover {
   color: #767676 !important;
-}
-.cid-rS4RThQxCe {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #efefef;
-}
-.cid-rS4RThQxCe h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 2rem;
-}
-.cid-rS4RThQxCe p {
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 1.5rem;
-  padding-top: 2rem;
-}
-.cid-rS4RThQxCe .mbr-section-btn {
-  padding-top: 2.5rem;
-}
-.cid-rS4RThQxCe .mbr-section-btn a {
-  margin: 0;
-}
-.cid-rS4RThQxCe .mbr-text {
-  color: #767676;
-}
-.cid-rS4RThQxCe .card-wrapper {
-  height: 100%;
-}
-@media (max-width: 767px) {
-  .cid-rS4RThQxCe .card:not(.last-child) {
-    padding-bottom: 2rem;
-  }
-}
-.cid-rS4RThQxCe .mbr-text,
-.cid-rS4RThQxCe .mbr-section-btn {
-  text-align: left;
 }
 .cid-rUuOkYKR9f {
   padding-top: 0px;
